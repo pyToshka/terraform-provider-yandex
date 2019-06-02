@@ -1,4 +1,9 @@
-## 0.5.3 (Unreleased)
+## 0.7.0 (Unreleased)
+## 0.6.0 (May 29, 2019)
+NOTES:
+* provider: This release includes a Terraform SDK upgrade with compatibility for Terraform v0.12. 
+* provider: Switch dependency management to Go modules. ([#5](https://github.com/yandex-cloud/terraform-provider-yandex/issues/5))
+
 ## 0.5.2 (April 24, 2019)
 ENHANCEMENTS:
 * compute: fractional values for memory for `yandex_compute_instance`.
